@@ -1,6 +1,6 @@
 # California Housing Price Prediction - ML Engineering Project
 
-Proyecto completo de Machine Learning Engineering para prediccion de precios de viviendas en California utilizando el dataset clasico de scikit-learn. Diseñado para una clase de 2 horas con enfoque en mejores practicas de MLOps.
+Proyecto completo de Machine Learning Engineering para prediccion de precios de viviendas en California utilizando el dataset clasico de scikit-learn. Enfoque en mejores practicas de MLOps.
 
 ## Descripcion General
 
